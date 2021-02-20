@@ -4,7 +4,7 @@
         <apply_import_set>true</apply_import_set>
         <apply_soap>true</apply_soap>
         <conditions/>
-        <description/>
+        <description>Adding short description in Data policy</description>
         <enforce_ui>true</enforce_ui>
         <inherit>false</inherit>
         <model_id/>
@@ -17,7 +17,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e59b77671b12201060b18515ec4bcb73</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Sets the Short description field to mandatory</sys_name>
         <sys_overrides/>
         <sys_package display_value="Innovate" source="x_23326_innovate">557af7e31b12201060b18515ec4bcbf5</sys_package>
@@ -25,6 +25,6 @@
         <sys_scope display_value="Innovate">557af7e31b12201060b18515ec4bcbf5</sys_scope>
         <sys_update_name>sys_data_policy2_e59b77671b12201060b18515ec4bcb73</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-19 14:59:58</sys_updated_on>
+        <sys_updated_on>2021-02-20 14:12:33</sys_updated_on>
     </sys_data_policy2>
 </record_update>
